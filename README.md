@@ -16,12 +16,12 @@ It provides end-to-end insights from raw data to interactive dashboards.
 
 ## 🗂 Project Structure  
 FMCG-Project/
--│
--├── datasets/ # Raw datasets (CSV / Excel)
--├── sql/ # SQL scripts & views
--├── powerbi/ # Power BI .pbix files
--├── docs/ # Project documentation (Word/PDF)
--└── README.md # Project description
+│
+├── datasets/ # Raw datasets (CSV / Excel)
+├── sql/ # SQL scripts & views
+├── powerbi/ # Power BI .pbix files
+├── docs/ # Project documentation (Word/PDF)
+└── README.md # Project description
 
 
 ---
