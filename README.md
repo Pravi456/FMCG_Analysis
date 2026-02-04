@@ -23,6 +23,7 @@ FMCG-Project/
 ├── powerbi/         # Power BI .pbix files
 ├── docs/            # Project documentation (Word/PDF)
 └── README.md        # Project description
+```
 
 ---
 
