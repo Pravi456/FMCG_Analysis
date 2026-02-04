@@ -11,7 +11,7 @@ It provides end-to-end insights from raw data to interactive dashboards.
 - **Power BI** – Visualization & dashboards  
 - **GitHub** – Version control & portfolio  
 
----
+
 
 ## 🗂 Project Structure  
 FMCG-Project/
@@ -23,7 +23,7 @@ FMCG-Project/
 └── README.md # Project description
 
 
----
+
 
 ## 🧮 SQL Data Model  
 A centralized SQL view was created:
