@@ -1,4 +1,4 @@
-<img width="724" height="82" alt="image" src="https://github.com/user-attachments/assets/a32fc362-ae99-4421-8262-82d9ea84df15" /># 📊 FMCG Analytics Project
+
 
 ## 🔍 Project Overview  
 This project analyzes **FMCG manufacturing performance, production capacity, cost structure, and pricing strategy** using **SQL Server** and **Power BI**.  
